@@ -1,0 +1,5 @@
+osource "d:/ProjectWork/50.Thread/cli/boards/shields/*/Kconfig.defconfig"
+osource "d:/ProjectWork/50.Thread/coprocessor/boards/shields/*/Kconfig.defconfig"
+osource "d:/ProjectWork/50.Thread/coap_server/boards/shields/*/Kconfig.defconfig"
+osource "d:/ProjectWork/43.Esp32_lora/peripheral_lbs/boards/shields/*/Kconfig.defconfig"
+osource "C:/ncs/v2.0.0/nrf/boards/shields/*/Kconfig.defconfig"
